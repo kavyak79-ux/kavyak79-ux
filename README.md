@@ -35,11 +35,6 @@ A platform designed to connect NGOs, donors, volunteers and people seeking suppo
 
 **Tech:** HTML • CSS • JavaScript • PHP • MySQL
 
-### 🤖 Smart Plastic Collection Robot
-A robotic system designed to identify and collect plastic bottles while navigating its surroundings.
-
-**Tech:** Arduino • Sensors • Robotics
-
 ### 🚗 Obstacle Avoidance Robot
 An autonomous robot that detects obstacles and changes direction accordingly.
 
